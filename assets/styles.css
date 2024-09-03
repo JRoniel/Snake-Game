@@ -1,0 +1,8 @@
+body {
+    user-select: none;
+}
+
+.pause-alert {
+    color: red;
+    font-weight: bold;
+}
